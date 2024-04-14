@@ -43,6 +43,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 	node -v # should print `v21.7.3`
 	# verifies the right NPM version is in the environment
 	npm -v # should print `10.5.0`
+	document updated
 
    npm i
    ```
